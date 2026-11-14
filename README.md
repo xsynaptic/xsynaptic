@@ -4,11 +4,12 @@ I'm a senior front-end, full-stack, and product engineer from Canada currently b
 
 Some sites I run:
 
-- [spectralcodex.com](https://spectralcodex.com): a geospatial journal of historical sites and abandoned places ([Source Code](https://github.com/xsynaptic/spectralcodex))
-- [synapticism.com](https://synapticism.com): technical portfolio and web development blog ([Source Code](https://github.com/xsynaptic/synapticism))
-- [djbasilisk.com](https://djbasilisk.com): 20 years of deep-diving mixes and writing about electronic dance music ([Source Code](https://github.com/xsynaptic/resonance))
+- [spectralcodex.com](https://spectralcodex.com) ([source](https://github.com/xsynaptic/spectralcodex)): a geospatial journal of historical sites and abandoned places
+- [synapticism.com](https://synapticism.com) ([source](https://github.com/xsynaptic/synapticism)): technical portfolio and web development blog
+- [djbasilisk.com](https://djbasilisk.com) ([source](https://github.com/xsynaptic/resonance)): 20 years of deep-diving mixes and writing about electronic dance music
 
 Selected open source projects:
 
-- [astro-lab](https://github.com/xsynaptic/astro-lab): useful tools and configs for developing Astro projects ([Source Code](https://github.com/xsynaptic/astro-lab))
-- [sonic-ui](https://github.com/xsynaptic/sonic-ui): a growing collection of web components useful for building audio applications on the web ([Source Code](https://github.com/xsynaptic/sonic-ui))
+- [astro-lab](https://github.com/xsynaptic/astro-lab): useful tools and configs for developing Astro projects
+- [sonic-ui](https://github.com/xsynaptic/sonic-ui): a growing collection of web components useful for building audio applications on the web
+- [flacscan](https://github.com/xsynaptic/flacscan): a simple macOS CLI designed to monitor large FLAC collections for bitrot
