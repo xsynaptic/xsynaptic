@@ -1,0 +1,13 @@
+{
+	"name": "xsynaptic",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"check": "prettier --check .",
+		"fix": "prettier --write .",
+		"preview": "gh markdown-preview"
+	},
+	"devDependencies": {
+		"prettier": "^3.9.10"
+	}
+}
